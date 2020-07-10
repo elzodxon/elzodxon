@@ -6,6 +6,8 @@
 
 #⚡ Fun fact: lazy developer:)
 
+I make vlogs on youtube. You can watch my vlogs in this link: youtube.com/elzodxonsharofaddinov
+
 <!--
 **elzodxon/elzodxon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
