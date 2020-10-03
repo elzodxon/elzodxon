@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # My name is Elzodxon and I am a web developer. 
-# How to reach me: elzodxon@interest.uz
+# How to reach me: elzodxon@gmail.com
 
 
 #⚡ Fun fact: lazy developer:)
