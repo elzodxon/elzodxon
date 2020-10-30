@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 # My name is Elzodxon and I am a web developer. 
-# How to reach me: elzodxon@gmail.com
+## How to reach me: elzodxon@gmail.com
 
+I use HTML, CSS, JavaScript, Vuejs, Sass, Bootstrap 4
 
 #⚡ Fun fact: lazy developer:)
 
