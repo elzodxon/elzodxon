@@ -3,12 +3,6 @@
 # My name is Elzodxon and I am a web developer. 
 ## How to reach me: elzodxon@gmail.com
 
-I use HTML, CSS, JavaScript, Vuejs, Sass, Bootstrap 4
-
-#⚡ Fun fact: lazy developer:)
-
-I make vlogs on youtube. You can watch my vlogs in this link:  [youtube.com/elzodxonsharofaddinov](youtube.com/elzodxonsharofaddinov)
-
 <!--
 **elzodxon/elzodxon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
