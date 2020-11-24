@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elzodxon)](https://github.com/elzodxon/github-readme-stats)
+[![Elzodxon's github stats](https://github-readme-stats.vercel.app/api?username=elzodxon)](https://github.com/elzodxon/github-readme-stats)
