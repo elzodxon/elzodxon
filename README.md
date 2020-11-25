@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # My name is Elzodxon and I am a web developer. 
-## How to reach me: elzodxon@gmail.com
+## How to reach me:elzodxon@interest.uz
 
 <!--
 **elzodxon/elzodxon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
