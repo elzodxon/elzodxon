@@ -21,3 +21,10 @@ Here are some ideas to get you started:
 [![Elzodxon's github stats](https://github-readme-stats.vercel.app/api?username=elzodxon)](https://github.com/elzodxon/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elzodxon)
+
+
+### The number of people watched me:
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=elzodxon)
+
